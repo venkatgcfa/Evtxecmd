@@ -30,6 +30,6 @@ This tool simplifies digital forensic investigations by automating repetitive ta
 Before running this tool, ensure you have:
 - **Windows 10 or later**
 - **Python 3.x** installed
-- **EvtxECmd.exe** placed in a known location (ensure it's accessible from your system's PATH)
+- **EvtxECmd.exe** Download Evtxecmd from (https://ericzimmerman.github.io/#!index.md) placed in a known location (ensure it's accessible from your system's PATH)
 
 ---
